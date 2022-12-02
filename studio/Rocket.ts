@@ -42,6 +42,4 @@ export class Rocket {
             return true
         } else return false
     }
-
-    
 }
